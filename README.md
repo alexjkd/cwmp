@@ -1,12 +1,12 @@
 # README
 
-#### Laravel 5
+#### Laravel 5.5
 
 Download the package via composer by running:
 
 	composer require "rrey/cwmp":"dev-master"
 
-Include the following in the `app\config.php`'s file `providers` array:
+Include the following in the `config\app.php`'s file `providers` array:
 
 	'providers' => [
 		
